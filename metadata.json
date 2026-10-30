@@ -1,0 +1,6 @@
+{
+  "name": "¡Cada gota cuenta! - Ahorro de Agua",
+  "description": "Calculadora interactiva del consumo de agua en la ducha con visualizador en tiempo real, comparativas, cronómetro y consejos de ahorro ecológico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
